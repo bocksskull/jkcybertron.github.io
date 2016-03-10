@@ -2,15 +2,15 @@
 title: BlogSite
 email: jaskaran@cybertrontechnologies.com
 description: > # this means to ignore newlines until "baseurl:"
-  This site is dedicated to solving problems faced in development. It also acts as a storage so that I can use them later too. Then Blah Blah Blah, nobody cares about the about me. Lets get to the good STUFF!
+  This site is dedicated to solving problems faced in development. It also acts as a storage so that I can use them later too. All codes and techniques posted here are free to use wherever or whenever you want. Lets get to the good STUFF!
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
-google_play: 'GDGX'
-google_plus_com: '109485346959707049693'  # Community link
-google_plus_per: '+GDGManagua'  #Personal link
-facebook_app_id: 12345
+# twitter_username: jekyllr
+github_username:  jkcybertron
+# google_play: 'GDGX'
+# google_plus_com: '109485346959707049693'  # Community link
+# google_plus_per: '+GDGManagua'  #Personal link
+# facebook_app_id: 12345
 
 # Layout settings
 header_type: default  # values [ drawer, default ]
